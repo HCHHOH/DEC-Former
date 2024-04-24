@@ -2,11 +2,6 @@
 
 This is the original pytorch implementation of DEC-Former.
 
-<p align="center">
-  <img width="350" height="400" src=fig/model.png>
-</p>
-
-
 ## Requirements
 - python 3.7
 - numpy == 1.19.2
