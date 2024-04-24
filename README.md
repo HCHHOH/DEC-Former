@@ -12,5 +12,5 @@ This is the original pytorch implementation of DEC-Former.
 
 
 ## Data
-The dataset used in the paper can be downloaded from [ASTGNN](https://github.com/guoshnBJTU/ASTGNN/tree/main/data).
+The dataset used in the paper can be downloaded from [BaiDuYun](https://pan.baidu.com/s/1jy-IUNTZUUYHNXtx7BpM-w?pwd=y1ef).
 
