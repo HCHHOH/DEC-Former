@@ -11,8 +11,8 @@ len_input = 12
 dataset_name = "PEMS08"
 
 #training config
-num_of_weeks = 0 # 历史数据选择，以周为单位，num=3: [(0, 12), (2016, 2028), (4032, 4044)]
-num_of_days = 0 # 历史数据范围，以天为单位
+num_of_weeks = 1 # 历史数据选择，以周为单位，num=3: [(0, 12), (2016, 2028), (4032, 4044)]
+num_of_days = 1 # 历史数据范围，以天为单位
 num_of_hours = 1
 
 data = np.load(graph_signal_matrix_filename)
