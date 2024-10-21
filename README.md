@@ -32,3 +32,25 @@ The performance of DEC-Former was evaluated on four real-world traffic flow data
 ## Data
 The dataset used in the paper can be downloaded from [BaiDuYun](https://pan.baidu.com/s/1jy-IUNTZUUYHNXtx7BpM-w?pwd=y1ef).
 
+## Citation
+
+```
+@inproceedings{DEC-Former,
+  author = {Yu, Qi and Ding, Weilong and Zhang, Hao and Yang, Yang and Zhang, Tianpu},
+  title = {Rethinking Attention Mechanism for Spatio-Temporal Modeling: A Decoupling Perspective in Traffic Flow Prediction},
+  year = {2024},
+  isbn = {9798400704369},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3627673.3679571},
+  doi = {10.1145/3627673.3679571},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages = {3032–3041},
+  numpages = {10},
+  keywords = {attention mechanism, spatio-temporal representation, traffic prediction},
+  location = {Boise, ID, USA},
+  series = {CIKM '24}
+}
+
+```
+
